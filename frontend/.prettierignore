@@ -1,0 +1,10 @@
+# Archivos y carpetas que Prettier NO debe formatear
+dist/
+node_modules/
+package-lock.json
+
+# Archivos generados automáticamente
+*.log
+
+# Configuración de Angular que no se formatea
+.angular/
