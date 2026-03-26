@@ -11,7 +11,7 @@ El objetivo principal es ofrecer un sitio informativo que permita:
 
 ## 2. Alcance del Proyecto
 El sistema incluirá:
-- Una landing page completa con secciones informativas.
+- Una página principal (Home) que introduce al profesional y sus servicios.
 - Un listado de servicios con descripciones.
 - Una sección de preguntas frecuentes (FAQ) con interacción básica.
 - Una página “Sobre mí” con información del profesional.
@@ -42,7 +42,7 @@ Administrador (psicólogo/a)
 - Solo recibe los mensajes enviados desde el formulario (vía backend).
 
 ## 5. Pantallas del Sistema
-- Landing Page (Home)
+- Home Page
 - Servicios
 - FAQ
 - Sobre mí
@@ -52,7 +52,7 @@ Además:
 - Footer (componente global)
 
 ## 6. Funcionalidades por Pantalla
-6.1 Landing Page
+6.1 Home Page
 Secciones:
 - Hero principal con mensaje y CTA.
 - Sobre el profesional (resumen).

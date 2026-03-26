@@ -4,7 +4,7 @@ Este documento detalla las pantallas del sistema FlowiaCare, los datos que muest
 
 ---
 
-## 🏠 1. LandingPage
+## 🏠 1. HomePage
 
 ### Objetivo
 Presentar al profesional, su enfoque y los servicios principales, guiando al usuario hacia el contacto.
